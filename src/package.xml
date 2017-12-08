@@ -5,6 +5,7 @@
     <members>DeleteMe</members>
     <members>DontTouchMe</members>
     <members>HelloWorld</members>
+    <members>Test_HelloWorld</members>
     <members>VersionMatters</members>
   </types>
   <version>41.0</version>
