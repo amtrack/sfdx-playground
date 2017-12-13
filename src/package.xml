@@ -5,6 +5,7 @@
     <members>DeleteMe</members>
     <members>DontTouchMe</members>
     <members>ManageAccounts</members>
+    <members>ManageContacts</members>
   </types>
   <version>41.0</version>
 </Package>
