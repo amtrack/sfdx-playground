@@ -4,6 +4,7 @@
     <name>CustomObject</name>
     <members>DontTouchMe__c</members>
     <members>Foo__c</members>
+    <members>NewObject__c</members>
   </types>
   <types>
     <name>CustomField</name>
