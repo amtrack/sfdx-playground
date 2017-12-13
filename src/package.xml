@@ -10,6 +10,7 @@
     <members>Foo__c.Bar__c</members>
     <members>Foo__c.DontTouchMe__c</members>
     <members>Foo__c.Formula__c</members>
+    <members>Foo__c.NewCheckbox__c</members>
   </types>
   <version>41.0</version>
 </Package>
