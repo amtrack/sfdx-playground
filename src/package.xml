@@ -8,7 +8,6 @@
   <types>
     <name>CustomField</name>
     <members>Foo__c.Bar__c</members>
-    <members>Foo__c.DeleteMe__c</members>
     <members>Foo__c.DontTouchMe__c</members>
     <members>Foo__c.Formula__c</members>
   </types>

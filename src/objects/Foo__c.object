@@ -71,14 +71,6 @@
         <type>Checkbox</type>
     </fields>
     <fields>
-        <fullName>DeleteMe__c</fullName>
-        <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
-        <label>DeleteMe</label>
-        <trackTrending>false</trackTrending>
-        <type>Checkbox</type>
-    </fields>
-    <fields>
         <fullName>DontTouchMe__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
