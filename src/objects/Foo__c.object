@@ -80,8 +80,9 @@
     </fields>
     <fields>
         <fullName>Formula__c</fullName>
+        <description>Duplicate Name separated by a space</description>
         <externalId>false</externalId>
-        <formula>Name &amp; Name</formula>
+        <formula>Name &amp; " " &amp; Name</formula>
         <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
         <label>Formula</label>
         <required>false</required>
