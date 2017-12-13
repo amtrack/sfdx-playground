@@ -1,0 +1,25 @@
+{
+  "name": "sfdx-playground",
+  "version": "0.1.0",
+  "description": "Simulation of various scenarios of a Salesforce development process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amtrack/sfdx-playground.git"
+  },
+  "keywords": [
+    "salesforce",
+    "sfdx",
+    "metadata",
+    "deployment"
+  ],
+  "author": "Matthias Rolke <mr.amtrack@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amtrack/sfdx-playground/issues"
+  },
+  "homepage": "https://github.com/amtrack/sfdx-playground#readme"
+}
