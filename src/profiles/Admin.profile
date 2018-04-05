@@ -2,7 +2,7 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>false</custom>
     <layoutAssignments>
-        <layout>Account-Account %28Marketing%29 Layout</layout>
+        <layout>Account-Account Layout</layout>
         <recordType>Account.Person</recordType>
     </layoutAssignments>
     <layoutAssignments>
